@@ -1,0 +1,10 @@
+body{
+    background: black;
+}
+.text
+{
+    text-align: center;
+    font-size: 2em;
+    color: red;
+    padding-top: 100px;
+}
